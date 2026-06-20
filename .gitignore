@@ -1,0 +1,10 @@
+# Dependencias (esta carpeta nunca se sube porque es pesadísima)
+node_modules/
+.pnpm-store/
+
+# Archivos de compilación (los archivos .js generados por tsc)
+dist/
+src/*.js
+
+# Archivos del editor
+.vscode/
